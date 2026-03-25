@@ -34,27 +34,22 @@ Me apasiona la seguridad web, la automatización y la construcción de software 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcPerarnauUAB&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MarcPerarnauUAB&theme=dark&hide_border=false" width="100%" />
-</p>
-
 ---
-
 ## 🏆 Reconocimientos y Actividad
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MarcPerarnauUAB&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" />
 </p>
 
 ---
 
 ## 🌐 Conéctate conmigo:
 <p align="left">
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mperarnau__)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marclperarnau)
+<a href="https://instagram.com/mperarnau__" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://linkedin.com/in/marclperarnau" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 </p>
 
 ---
