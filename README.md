@@ -35,13 +35,6 @@ Me apasiona la seguridad web, la automatización y la construcción de software 
 </p>
 
 ---
-## 🏆 Reconocimientos y Actividad
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarcPerarnauUAB&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
 ## 🌐 Conéctate conmigo:
 <p align="left">
 <a href="https://instagram.com/mperarnau__" target="_blank">
@@ -50,9 +43,4 @@ Me apasiona la seguridad web, la automatización y la construcción de software 
 <a href="https://linkedin.com/in/marclperarnau" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-</p>
-
----
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MarcPerarnauUAB&icon=0&color=0" />
 </p>
